@@ -45,3 +45,12 @@ header h1 {
   background-color: #f9f9fb;
 }
 
+.btn-group, .btn-group-vertical {
+  position: relative;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+}
+
